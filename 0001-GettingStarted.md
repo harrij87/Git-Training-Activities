@@ -6,7 +6,7 @@ The following document will help you get setup to succeed for the term.  In orde
 
 ## Expectations ##  
 
-It is not expected that you would know what to do or how to do things right away.  This is the purpose of learning.  However, if you can't get a program to install and run, then you are in for a very long term, and and even longer career.  Of course there are issues, and things happen, and when they arise we can troubleshoot them.  In the end, however, if you can't get a free tool to install and run for weeks on end, you aren't going to do well in the term.  It is not a valid excuse to say "My SQL Server won't install" for 7 weeks.  
+It is expected that you would know what to do or how to do things right away.  This is the purpose of learning.  However, if you can't get a program to install and run, then you are in for a very long term, and and even longer career.  Of course there are issues, and things happen, and when they arise we can troubleshoot them.  In the end, however, if you can't get a free tool to install and run for weeks on end, you aren't going to do well in the term.  It is not a valid excuse to say "My SQL Server won't install" for 7 weeks.  
 
 ## Tools That you will Need##  
 
