@@ -1,6 +1,6 @@
 # Git Activity 1 - Forking a repository
 
-This first activity will get you setup to complete the rest of the activities.
+This first activity will get u setup to complete the rest of the activities.
 
 If you are struggling with any of the concepts required for this assignment, make sure to review the video course to find out more about how to perform a specific command, or just get more practice and understanding of the topic presented.
 
